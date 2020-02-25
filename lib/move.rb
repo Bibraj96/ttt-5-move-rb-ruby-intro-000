@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(user_input)
-  '5'.to_i
+  '0'.to_i
 end
